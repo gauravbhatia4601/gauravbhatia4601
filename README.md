@@ -13,7 +13,7 @@ At [Technioz](https://technioz.com), I lead development on AI-powered bots, lead
 
 👁️ Visitor Counter
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=gauravbhatia4601&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
