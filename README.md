@@ -76,6 +76,38 @@ At [Technioz](https://technioz.com), I lead development on AI-powered bots, lead
 - 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/gauravbhatia1064/)  
 - 📷 [Instagram](https://www.instagram.com/_gaurav.bhatia04_/)
 
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravbhatia4601&show_icons=true&theme=radical&hide_border=true" alt="Gaurav's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravbhatia4601&theme=radical&hide_border=true" alt="Gaurav's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbhatia4601&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## ✨ Dev Quote of the Day
+
+> “People should be able to speak and breathe programs just like they talk now.”  
+> — *Jaron Lanier*
+
+---
+
+## 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauravbhatia4601&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+
 
 Thanks for stopping by! Feel free to explore, connect, or collaborate.  
 
