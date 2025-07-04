@@ -11,6 +11,11 @@ Over the past 5+ years, I’ve built smart platforms across logistics, real esta
 
 At [Technioz](https://technioz.com), I lead development on AI-powered bots, lead generation engines, internal dashboards, and automation-first products.
 
+👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauravbhatia4601&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 🛠️ Tech Stack & Tools
 
@@ -89,14 +94,6 @@ At [Technioz](https://technioz.com), I lead development on AI-powered bots, lead
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbhatia4601&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
-
-👁️ Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravbhatia4601&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
 
 
 Thanks for stopping by! Feel free to explore, connect, or collaborate.  
