@@ -1,101 +1,123 @@
-👋 Hi, I'm Gaurav Bhatia
-
-Backend Developer | AI Automation Architect
-🇦🇪 Based in Dubai, UAE | 5+ Years of Experience | Co-founder of [Technioz](https://technioz.com)
-
-
-🚀 About Me
-
-I'm a full-stack developer with a strong focus on scalable backend systems, AI automation, and digital transformation.  
-Over the past 5+ years, I’ve built smart platforms across logistics, real estate, eCommerce, and B2B automation — helping businesses streamline operations and grow faster.
-
-At [Technioz](https://technioz.com), I lead development on AI-powered bots, lead generation engines, internal dashboards, and automation-first products.
-
-👁️ Visitor Counter
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gauravbhatia4601&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
-🛠️ Tech Stack & Tools
-
-🧠 Backend
-![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
-![Yii2](https://img.shields.io/badge/Yii2-4584b6?style=flat&logo=yii&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white)
-
-🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-🔐 API & Auth 
-![REST](https://img.shields.io/badge/REST-00599C?style=flat)
-![OAuth2](https://img.shields.io/badge/OAuth2-ff6f00?style=flat)
-![Passport](https://img.shields.io/badge/Passport-1e1e1e?style=flat)
-
-☁️ Cloud & Infra
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-🤖 Automation & AI
-![n8n](https://img.shields.io/badge/n8n-ef6537?style=flat&logo=n8n&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
-
-🎨 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-18181b?style=flat)
-
-🧰 Dev Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-
-🌟 Featured Projects
-
-- 🎥 [video-recording](https://github.com/gauravbhatia4601/video-recording)  
-  Web-based video/audio recording app using RecordRTC.
-
-- 🌱 [sky-growers](https://github.com/gauravbhatia4601/sky-growers)  
-  A scalable farm website built with Next.js, Tailwind, and TypeScript — designed for organic produce businesses.
-
-- 🗺️ [Open-Street-Map-with-Leaflet](https://github.com/gauravbhatia4601/Open-Street-Map-with-Leaflet)  
-  Custom OSM implementation using Leaflet.js with autocomplete & routing support.
-
-📫 Let's Connect
-
-- 🌐 [technioz.com](https://technioz.com)  
-- 💼 [Upwork](https://www.upwork.com/freelancers/~01f20500524197e5864)  
-- 💬 [WhatsApp](https://wa.me/919803683577)  
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/gauravbhatia1064/)  
-- 📷 [Instagram](https://www.instagram.com/_gaurav.bhatia04_/)
-
-📊 GitHub Stats:
+<h1 align="center">Hey, I'm Gaurav Bhatia 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravbhatia4601&show_icons=true&theme=radical&hide_border=true" alt="Gaurav's GitHub Stats" />
+  <strong>AI Developer · Automation Engineer · SaaS Builder · Cofounder @ Technioz</strong><br/>
+  📍 Dubai, UAE &nbsp;|&nbsp; 🌐 <a href="https://heygauravbhatia.com">heygauravbhatia.com</a> &nbsp;|&nbsp; 🐦 <a href="https://x.com/heygauravbhatia">@heygauravbhatia</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravbhatia4601&theme=radical&hide_border=true" alt="Gaurav's Streak" />
+  <img src="https://komarev.com/ghpvc/?username=gauravbhatia4601&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/gauravbhatia1064"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://heygauravbhatia.com"><img src="https://img.shields.io/badge/Portfolio-heygauravbhatia.com-000?style=flat&logo=vercel" alt="Portfolio"/></a>
 </p>
+
+---
+
+## Who I Am
+
+I'm a **full-stack AI developer and cofounder of [Technioz](https://technioz.com)**, building production-ready AI systems, automation workflows, and SaaS products for B2B businesses globally.
+
+I don't build demos. I build **systems that ship, scale, and run autonomously** — for real estate firms, SaaS startups, and service businesses across the **US, UAE, Canada, New Zealand, and Europe**.
+
+> "The best system is one that doesn't need you to babysit it."
+
+---
+
+## What I Build
+
+| Area | What I Deliver |
+|---|---|
+| 🤖 **AI Agents** | Multi-agent systems, LangChain pipelines, CrewAI orchestration, agentic RAG |
+| ⚙️ **Automation** | n8n workflows, Make.com, Zapier, WhatsApp bots, lead pipelines |
+| 🧠 **AI Integrations** | GPT-4, Claude, Gemini APIs embedded into real products |
+| 📦 **SaaS Products** | Full-stack MVPs from idea to production (Node.js, Laravel, Next.js) |
+| 📋 **B2B CRM Systems** | Custom CRM automation, outreach pipelines, GoHighLevel builds |
+| 🏠 **Real Estate AI** | Lead capture, WhatsApp automation, CRM workflows for property firms |
+
+---
+
+## Tech Stack
+
+**AI & Agents**
+```
+LangChain · LangGraph · CrewAI · OpenAI API · Anthropic Claude · Gemini
+RAG · Vector DBs · Pinecone · Supabase pgvector · Prompt Engineering
+```
+
+**Automation**
+```
+n8n · Make.com · Zapier · GoHighLevel · WhatsApp Business API
+```
+
+**Backend**
+```
+Node.js · Laravel (PHP) · Python · FastAPI · REST APIs · MySQL · PostgreSQL · MongoDB
+```
+
+**Frontend**
+```
+React.js · Next.js · Tailwind CSS · TypeScript
+```
+
+**DevOps & Cloud**
+```
+AWS · Vercel · Docker · CI/CD · Redis
+```
+
+---
+
+## Featured Projects
+
+### 🔁 AI Automation Systems
+End-to-end n8n and LangChain-powered pipelines for lead generation, CRM updates, WhatsApp follow-ups, and social media publishing — all running autonomously.
+
+### 🏠 Real Estate CRM Automation
+AI-powered lead capture, WhatsApp chatbot, and email sequence automation built for high-ticket real estate firms in the UAE and US.
+
+### 🧩 Multi-Agent Knowledge Base
+Autonomous knowledge system built with CrewAI — consolidates business data and makes it queryable by AI agents without manual input.
+
+### 📢 Social Media Automation Engine
+Reads a source study → analyses it → generates platform-specific posts → publishes automatically. Zero manual scripting per post.
+
+### 📬 B2B Outreach Pipeline
+AI-driven WhatsApp and email outreach system for SaaS sales — personalised at scale, integrated with CRM, and built to convert.
+
+---
+
+## Open to Work / Collaboration
+
+I'm available for **freelance and contract engagements** globally — remote-friendly.
+
+**Best fit if you need:**
+- A production AI agent or multi-agent system (not a proof of concept)
+- Automation to replace manual workflows in your business
+- A SaaS MVP with AI built in from day one
+- B2B CRM or outreach automation
+- Real estate AI systems (lead capture, nurturing, CRM sync)
+
+📩 **Reach me at:** [heygauravbhatia.com](https://heygauravbhatia.com) or [LinkedIn](https://linkedin.com/in/gauravbhatia1064)
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbhatia4601&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravbhatia4601&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbhatia4601&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 
+---
 
-Thanks for stopping by! Feel free to explore, connect, or collaborate.  
+## Writing & Content
 
-Let’s build something meaningful 🚀
+I write about AI systems, automation architecture, and solo building:
+- 🌐 [heygauravbhatia.com](https://heygauravbhatia.com)
+- 🐦 [@heygauravbhatia](https://x.com/heygauravbhatia) on X (Twitter)
+- 💼 [LinkedIn](https://linkedin.com/in/gauravbhatia1064)
+
+---
+
+<p align="center">
+  <em>AI automation developer · n8n specialist · LangChain developer · SaaS builder · freelance AI developer · AI agent architect · B2B automation · real estate AI · Dubai · UAE · available for hire globally</em>
+</p>
