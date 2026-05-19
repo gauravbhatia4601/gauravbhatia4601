@@ -40,8 +40,8 @@ I don't build demos. I build **systems that ship, scale, and run autonomously** 
 
 **AI & Agents**
 ```
-LangChain · LangGraph · CrewAI · OpenAI API · Anthropic Claude · Gemini
-RAG · Vector DBs · Pinecone · Supabase pgvector · Prompt Engineering
+LangChain · LangGraph · Cursor · OpenCode · OpenClaude · OpenAI API · Anthropic Claude · Gemini
+RAG · Vector DBs · Pinecone · Prompt Engineering · Cohere · Vector Embeddings
 ```
 
 **Automation**
@@ -61,27 +61,8 @@ React.js · Next.js · Tailwind CSS · TypeScript
 
 **DevOps & Cloud**
 ```
-AWS · Vercel · Docker · CI/CD · Redis
+AWS · Vercel · Docker · CI/CD · Redis · Contabo · Hetzner
 ```
-
----
-
-## Featured Projects
-
-### 🔁 AI Automation Systems
-End-to-end n8n and LangChain-powered pipelines for lead generation, CRM updates, WhatsApp follow-ups, and social media publishing — all running autonomously.
-
-### 🏠 Real Estate CRM Automation
-AI-powered lead capture, WhatsApp chatbot, and email sequence automation built for high-ticket real estate firms in the UAE and US.
-
-### 🧩 Multi-Agent Knowledge Base
-Autonomous knowledge system built with CrewAI — consolidates business data and makes it queryable by AI agents without manual input.
-
-### 📢 Social Media Automation Engine
-Reads a source study → analyses it → generates platform-specific posts → publishes automatically. Zero manual scripting per post.
-
-### 📬 B2B Outreach Pipeline
-AI-driven WhatsApp and email outreach system for SaaS sales — personalised at scale, integrated with CRM, and built to convert.
 
 ---
 
@@ -96,15 +77,22 @@ I'm available for **freelance and contract engagements** globally — remote-fri
 - B2B CRM or outreach automation
 - Real estate AI systems (lead capture, nurturing, CRM sync)
 
-📩 **Reach me at:** [heygauravbhatia.com](https://heygauravbhatia.com) or [LinkedIn](https://linkedin.com/in/gauravbhatia1064)
+📩 **Reach me at:** [heygauravbhatia.com](https://heygauravbhatia.com) or [LinkedIn](https://www.linkedin.com/in/heygauravbhatia)
 
 ---
 
-## GitHub Stats
+📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravbhatia4601&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbhatia4601&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravbhatia4601&show_icons=true&theme=radical&hide_border=true" alt="Gaurav's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravbhatia4601&theme=radical&hide_border=true" alt="Gaurav's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbhatia4601&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -114,7 +102,8 @@ I'm available for **freelance and contract engagements** globally — remote-fri
 I write about AI systems, automation architecture, and solo building:
 - 🌐 [heygauravbhatia.com](https://heygauravbhatia.com)
 - 🐦 [@heygauravbhatia](https://x.com/heygauravbhatia) on X (Twitter)
-- 💼 [LinkedIn](https://linkedin.com/in/gauravbhatia1064)
+- 💼 [LinkedIn](https://linkedin.com/in/heygauravbhatia)
+- 💬 [WhatsApp](https://wa.me/971569451930) 
 
 ---
 
