@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauravbhatia4601&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/gauravbhatia1064"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/heygauravbhatia"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://heygauravbhatia.com"><img src="https://img.shields.io/badge/Portfolio-heygauravbhatia.com-000?style=flat&logo=vercel" alt="Portfolio"/></a>
 </p>
 
